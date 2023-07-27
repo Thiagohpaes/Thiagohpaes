@@ -8,4 +8,6 @@ Sou desenvolver Front End, atualmente aprendendo e realizando projetos com:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thiagopaes&theme=blue-green" alt="status-logo"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopaes&theme=blue-green" alt="tecnologias-logo"/>
+
 E-mail de contato: t.paes@hotmail.com
