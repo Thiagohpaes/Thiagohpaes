@@ -1,5 +1,12 @@
 ### Olá!! Tudo Bem? Eu sou Thiago. 👋 😁
 
+<h2>Sou desenvolvedor Front-end. e estou estudando programação Full Stack no DevClub</h2>
+
+- 👨‍💻 Estudando Programação Full Stack  
+- 🚀 Aprendendo cada dia mais 
+- 💼 Buscando oportunidades para apoar em outros projetos 
+
+
 <a href="https://www.linkedin.com/in/thiagopaes98"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-link"/></a> <a href="https://www.facebook.com/thiago.paes.1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-link"/></a> <a href="https://wa.me/5541991737604?text=Ol%C3%A1,%20Meu%20nome%20%C3%A9%20Thiago!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-link"/></a> <a href="https://malito:t.paes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email-link"/></a>
 
 
